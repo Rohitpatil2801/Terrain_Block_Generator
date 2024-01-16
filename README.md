@@ -4,10 +4,11 @@
 - The Terrain Block Generator project is designed to be a versatile visualization tool for rendering and manipulating 3D terrain blocks. Leveraging the capabilities of Qt and OpenGL, this application provides an interactive environment for users to explore and modify terrain structures in real-time.
 
 ### 1. User Interface
-- Buttons and Sliders
+- Buttons and OpenGL Window
 1. `Read STL`: Opens a file dialog for selecting an STL file and renders it.
 2. `Generate Block`: Initiates the terrain block generation.
 3. `Clear Screen`: Clears openGL window.
+4. `OpenGL Window`: To visualizer and render .STL terrain file.
 
 ![Screenshot (27)](https://github.com/Rohitpatil2801/Terrain_Block_Generator/assets/149256303/faeb343a-7a87-4542-9587-675b887bbcdf)
 
@@ -25,7 +26,7 @@
 - `OpenGLWindow`: Handles OpenGL rendering, user interactions, and shader programs.
 
 **Shader Program**
-`Shaders`: Includes vertex shader and fragment shader program for openGL rendering. 
+- `Shaders`: Includes vertex shader and fragment shader program for openGL rendering. 
 
 **Algorithm classes**
 - `Algorithm`: The algorithm which take vertex data from binary stl and generate terrain block.
@@ -65,6 +66,7 @@
 4. `Triangulation.h/.cpp`
 
 **STL_Reader DLL**
+
 1. `STL_Reader.h/.cpp`
 
 2. `Reader.h/.cpp`
