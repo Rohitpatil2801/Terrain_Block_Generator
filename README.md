@@ -9,6 +9,9 @@
 2. `Generate Block`: Initiates the terrain block generation.
 3. `Clear Screen`: Clears openGL window.
 
+![Screenshot (27)](https://github.com/Rohitpatil2801/Terrain_Block_Generator/assets/149256303/faeb343a-7a87-4542-9587-675b887bbcdf)
+
+
 ### 2. Classes and Data Structures
 **Geometry Classes**
 1. `Point3D`: Represents a point in 3D space.
@@ -87,3 +90,21 @@
 **main function**
 
 - `main.cpp`
+
+### Output ScreenShots
+
+- Input Terrain
+
+![Screenshot (28)](https://github.com/Rohitpatil2801/Terrain_Block_Generator/assets/149256303/5cce767e-92b2-435b-920b-509eac7658b5)
+
+- Output Terrain
+
+![Screenshot (29)](https://github.com/Rohitpatil2801/Terrain_Block_Generator/assets/149256303/ba6c4a16-6f22-4a05-b239-208d85b35cbc)
+
+### Output Video
+
+https://github.com/Rohitpatil2801/Terrain_Block_Generator/assets/149256303/ba5c9ddb-88c4-497a-a146-9acc04036835
+
+
+
+
